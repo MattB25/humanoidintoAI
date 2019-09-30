@@ -1,2 +1,2 @@
 # humanoidintoAI
-Making a Blender Model an AI Agent
+Turning a Blender Model into an AI Agent
